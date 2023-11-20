@@ -1,9 +1,9 @@
 ### 🔮 About me:
 ---
 
--> 🔭 I’m currently working on University
--> 🌠 Learning Informatics and DataSci (InfoSec). Also art in my free time!
--> 🧙🏻‍♂️ Currently learning... many things :)
+- 🔭 I’m currently working on University
+- 🌠 Learning Informatics and DataSci (InfoSec). Also art in my free time!
+- 🧙🏻‍♂️ Currently learning... many things :)
 
 ---
 
@@ -28,3 +28,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) 
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+
+---
+
+![](https://komarev.com/ghpvc/?username=mortimoos&color=dc143c&style=for-the-badge)
+
+--- 
