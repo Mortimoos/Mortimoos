@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on University
-- 🌠 Learning Informatics and DataSci (InfoSec). Also art in my free time!
+- 🌠 IT & Cybersec. Also art in my free time!
 
 
 ## 👻 Tech Stack:
